@@ -1,8 +1,8 @@
 # Challenge One 
 
-# Part One: CSS Selectors, Cascade, Inheritance & Specificity
+## Part One: CSS Selectors, Cascade, Inheritance & Specificity
  
-## To Complete This Assignment: 
+### To Complete This Assignment: 
 
 1.) Create an HTML document with information about you.
 
@@ -34,11 +34,11 @@ View The Website Here... ???
 
 5.) Add comments to your code where necessary/helpful 
 
+View The Website Here... ???
+
 Notes: 
 - Making the website responsive was not necessary 
 - Created using Chrome
 
 ### Assignment Due Date: May 26th, 2023
 ### Mark Received: 100%
-
-View The Website Here... ???
